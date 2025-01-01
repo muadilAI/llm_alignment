@@ -1,0 +1,11 @@
+transformers==4.46.3
+trl==0.12.2
+huggingface_hub==0.26.5
+rouge-score==0.1.2
+nltk==3.9.1
+bert-score==0.3.13
+inflect==7.4.0
+bitsandbytes==0.45.0
+accelerate==1.2.0
+gspread==6.1.4
+oauth2client==4.1.3
